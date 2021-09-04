@@ -1,0 +1,1901 @@
+,cuisine,ingr_count,ingr_pct,ingredient
+0,Italian,553.0,5.18,pepper
+1,Irish,473.0,4.72,pepper
+2,English,588.0,5.61,pepper
+3,Chinese,545.0,4.25,pepper
+4,French,771.0,5.64,pepper
+5,Cuban,564.0,5.75,pepper
+6,Spanish,827.0,5.43,pepper
+7,Hungarian,487.0,6.2,pepper
+8,Greek,796.0,5.11,pepper
+9,Moroccan,721.0,4.25,pepper
+10,Swedish,432.0,5.79,pepper
+11,Mexican,473.0,4.02,pepper
+12,Hawaiian,425.0,5.04,pepper
+13,Japanese,284.0,2.5,pepper
+14,Indian,440.0,2.75,pepper
+15,German,666.0,5.94,pepper
+16,Thai,552.0,3.48,pepper
+17,American,768.0,6.73,pepper
+0,Italian,530.0,4.96,salt
+1,Irish,496.0,4.95,salt
+2,English,630.0,6.01,salt
+3,Chinese,416.0,3.24,salt
+4,French,798.0,5.84,salt
+5,Cuban,548.0,5.59,salt
+6,Spanish,715.0,4.7,salt
+7,Hungarian,494.0,6.29,salt
+8,Greek,791.0,5.08,salt
+9,Moroccan,781.0,4.61,salt
+10,Swedish,454.0,6.09,salt
+11,Mexican,401.0,3.41,salt
+12,Hawaiian,317.0,3.76,salt
+13,Japanese,343.0,3.02,salt
+14,Indian,845.0,5.28,salt
+15,German,679.0,6.05,salt
+16,Thai,322.0,2.03,salt
+17,American,736.0,6.45,salt
+0,Italian,274.0,2.56,onion
+1,Irish,588.0,5.87,onion
+2,English,504.0,4.81,onion
+3,Chinese,455.0,3.54,onion
+4,French,576.0,4.21,onion
+5,Cuban,459.0,4.68,onion
+6,Spanish,790.0,5.19,onion
+7,Hungarian,549.0,6.99,onion
+8,Greek,646.0,4.15,onion
+9,Moroccan,761.0,4.49,onion
+10,Swedish,426.0,5.71,onion
+11,Mexican,538.0,4.57,onion
+12,Hawaiian,378.0,4.48,onion
+13,Japanese,425.0,3.75,onion
+14,Indian,764.0,4.78,onion
+15,German,687.0,6.12,onion
+16,Thai,452.0,2.85,onion
+17,American,430.0,3.77,onion
+0,Italian,488.0,4.57,garlic
+1,Irish,321.0,3.2,garlic
+2,English,254.0,2.42,garlic
+3,Chinese,661.0,5.15,garlic
+4,French,546.0,4.0,garlic
+5,Cuban,563.0,5.74,garlic
+6,Spanish,835.0,5.48,garlic
+7,Hungarian,313.0,3.99,garlic
+8,Greek,760.0,4.88,garlic
+9,Moroccan,716.0,4.22,garlic
+10,Swedish,125.0,1.68,garlic
+11,Mexican,326.0,2.77,garlic
+12,Hawaiian,278.0,3.3,garlic
+13,Japanese,306.0,2.7,garlic
+14,Indian,759.0,4.74,garlic
+15,German,161.0,1.44,garlic
+16,Thai,667.0,4.21,garlic
+17,American,381.0,3.34,garlic
+0,Italian,402.0,3.76,clove
+1,Irish,307.0,3.07,clove
+2,English,225.0,2.15,clove
+3,Chinese,518.0,4.04,clove
+4,French,511.0,3.74,clove
+5,Cuban,467.0,4.76,clove
+6,Spanish,739.0,4.85,clove
+7,Hungarian,277.0,3.53,clove
+8,Greek,642.0,4.12,clove
+9,Moroccan,654.0,3.86,clove
+10,Swedish,99.0,1.33,clove
+11,Mexican,257.0,2.18,clove
+12,Hawaiian,199.0,2.36,clove
+13,Japanese,236.0,2.08,clove
+14,Indian,605.0,3.78,clove
+15,German,220.0,1.96,clove
+16,Thai,558.0,3.52,clove
+17,American,324.0,2.84,clove
+0,Italian,530.0,4.96,olive oil
+1,Irish,185.0,1.85,olive oil
+2,English,239.0,2.28,olive oil
+3,Chinese,66.0,0.51,olive oil
+4,French,532.0,3.89,olive oil
+5,Cuban,363.0,3.7,olive oil
+6,Spanish,844.0,5.54,olive oil
+7,Hungarian,150.0,1.91,olive oil
+8,Greek,762.0,4.89,olive oil
+9,Moroccan,702.0,4.14,olive oil
+10,Swedish,99.0,1.33,olive oil
+11,Mexican,210.0,1.78,olive oil
+12,Hawaiian,97.0,1.15,olive oil
+13,Japanese,66.0,0.58,olive oil
+14,Indian,151.0,0.94,olive oil
+15,German,119.0,1.06,olive oil
+16,Thai,94.0,0.59,olive oil
+17,American,301.0,2.64,olive oil
+0,Italian,216.0,2.02,chicken
+1,Irish,31.0,0.31,chicken
+2,English,65.0,0.62,chicken
+3,Chinese,480.0,3.74,chicken
+4,French,333.0,2.44,chicken
+5,Cuban,121.0,1.23,chicken
+6,Spanish,382.0,2.51,chicken
+7,Hungarian,189.0,2.41,chicken
+8,Greek,377.0,2.42,chicken
+9,Moroccan,401.0,2.36,chicken
+10,Swedish,25.0,0.34,chicken
+11,Mexican,409.0,3.47,chicken
+12,Hawaiian,345.0,4.09,chicken
+13,Japanese,281.0,2.48,chicken
+14,Indian,374.0,2.34,chicken
+15,German,77.0,0.69,chicken
+16,Thai,495.0,3.12,chicken
+17,American,167.0,1.46,chicken
+0,Italian,311.0,2.91,tomato
+1,Irish,57.0,0.57,tomato
+2,English,112.0,1.07,tomato
+3,Chinese,18.0,0.14,tomato
+4,French,238.0,1.74,tomato
+5,Cuban,156.0,1.59,tomato
+6,Spanish,614.0,4.03,tomato
+7,Hungarian,219.0,2.79,tomato
+8,Greek,584.0,3.75,tomato
+9,Moroccan,423.0,2.49,tomato
+10,Swedish,8.0,0.11,tomato
+11,Mexican,316.0,2.68,tomato
+12,Hawaiian,81.0,0.96,tomato
+13,Japanese,13.0,0.11,tomato
+14,Indian,565.0,3.53,tomato
+15,German,40.0,0.36,tomato
+16,Thai,65.0,0.41,tomato
+17,American,161.0,1.41,tomato
+0,Italian,248.0,2.32,black pepper
+1,Irish,225.0,2.25,black pepper
+2,English,260.0,2.48,black pepper
+3,Chinese,119.0,0.93,black pepper
+4,French,335.0,2.45,black pepper
+5,Cuban,252.0,2.57,black pepper
+6,Spanish,258.0,1.69,black pepper
+7,Hungarian,179.0,2.28,black pepper
+8,Greek,351.0,2.25,black pepper
+9,Moroccan,340.0,2.01,black pepper
+10,Swedish,176.0,2.36,black pepper
+11,Mexican,130.0,1.1,black pepper
+12,Hawaiian,94.0,1.11,black pepper
+13,Japanese,108.0,0.95,black pepper
+14,Indian,175.0,1.09,black pepper
+15,German,241.0,2.15,black pepper
+16,Thai,82.0,0.52,black pepper
+17,American,387.0,3.39,black pepper
+0,Italian,120.0,1.12,water
+1,Irish,233.0,2.33,water
+2,English,205.0,1.95,water
+3,Chinese,409.0,3.19,water
+4,French,174.0,1.27,water
+5,Cuban,122.0,1.24,water
+6,Spanish,187.0,1.23,water
+7,Hungarian,200.0,2.55,water
+8,Greek,116.0,0.74,water
+9,Moroccan,236.0,1.39,water
+10,Swedish,132.0,1.77,water
+11,Mexican,128.0,1.09,water
+12,Hawaiian,148.0,1.76,water
+13,Japanese,290.0,2.56,water
+14,Indian,283.0,1.77,water
+15,German,308.0,2.75,water
+16,Thai,229.0,1.45,water
+17,American,153.0,1.34,water
+0,Italian,115.0,1.08,flour
+1,Irish,245.0,2.45,flour
+2,English,441.0,4.2,flour
+3,Chinese,96.0,0.75,flour
+4,French,327.0,2.39,flour
+5,Cuban,35.0,0.36,flour
+6,Spanish,68.0,0.45,flour
+7,Hungarian,249.0,3.17,flour
+8,Greek,86.0,0.55,flour
+9,Moroccan,54.0,0.32,flour
+10,Swedish,326.0,4.37,flour
+11,Mexican,274.0,2.33,flour
+12,Hawaiian,75.0,0.89,flour
+13,Japanese,114.0,1.0,flour
+14,Indian,43.0,0.27,flour
+15,German,387.0,3.45,flour
+16,Thai,27.0,0.17,flour
+17,American,213.0,1.87,flour
+0,Italian,57.0,0.53,sugar
+1,Irish,128.0,1.28,sugar
+2,English,47.0,0.45,sugar
+3,Chinese,515.0,4.01,sugar
+4,French,63.0,0.46,sugar
+5,Cuban,62.0,0.63,sugar
+6,Spanish,41.0,0.27,sugar
+7,Hungarian,57.0,0.73,sugar
+8,Greek,40.0,0.26,sugar
+9,Moroccan,54.0,0.32,sugar
+10,Swedish,73.0,0.98,sugar
+11,Mexican,34.0,0.29,sugar
+12,Hawaiian,321.0,3.81,sugar
+13,Japanese,523.0,4.61,sugar
+14,Indian,108.0,0.68,sugar
+15,German,273.0,2.43,sugar
+16,Thai,567.0,3.58,sugar
+17,American,155.0,1.36,sugar
+0,Italian,165.0,1.54,butter
+1,Irish,223.0,2.23,butter
+2,English,441.0,4.2,butter
+3,Chinese,23.0,0.18,butter
+4,French,482.0,3.53,butter
+5,Cuban,67.0,0.68,butter
+6,Spanish,58.0,0.38,butter
+7,Hungarian,139.0,1.77,butter
+8,Greek,92.0,0.59,butter
+9,Moroccan,118.0,0.7,butter
+10,Swedish,297.0,3.98,butter
+11,Mexican,54.0,0.46,butter
+12,Hawaiian,60.0,0.71,butter
+13,Japanese,34.0,0.3,butter
+14,Indian,148.0,0.93,butter
+15,German,276.0,2.46,butter
+16,Thai,173.0,1.09,butter
+17,American,251.0,2.2,butter
+0,Italian,618.0,5.78,cheese
+1,Irish,82.0,0.82,cheese
+2,English,221.0,2.11,cheese
+3,Chinese,0.0,0.0,cheese
+4,French,278.0,2.03,cheese
+5,Cuban,95.0,0.97,cheese
+6,Spanish,46.0,0.3,cheese
+7,Hungarian,17.0,0.22,cheese
+8,Greek,566.0,3.63,cheese
+9,Moroccan,29.0,0.17,cheese
+10,Swedish,46.0,0.62,cheese
+11,Mexican,625.0,5.31,cheese
+12,Hawaiian,157.0,1.86,cheese
+13,Japanese,3.0,0.03,cheese
+14,Indian,18.0,0.11,cheese
+15,German,83.0,0.74,cheese
+16,Thai,6.0,0.04,cheese
+17,American,169.0,1.48,cheese
+0,Italian,0.0,0.0,ginger
+1,Irish,13.0,0.13,ginger
+2,English,15.0,0.14,ginger
+3,Chinese,589.0,4.59,ginger
+4,French,5.0,0.04,ginger
+5,Cuban,11.0,0.11,ginger
+6,Spanish,10.0,0.07,ginger
+7,Hungarian,2.0,0.03,ginger
+8,Greek,4.0,0.03,ginger
+9,Moroccan,470.0,2.77,ginger
+10,Swedish,40.0,0.54,ginger
+11,Mexican,4.0,0.03,ginger
+12,Hawaiian,223.0,2.64,ginger
+13,Japanese,460.0,4.05,ginger
+14,Indian,730.0,4.56,ginger
+15,German,44.0,0.39,ginger
+16,Thai,395.0,2.49,ginger
+17,American,34.0,0.3,ginger
+0,Italian,143.0,1.34,beef
+1,Irish,357.0,3.56,beef
+2,English,361.0,3.44,beef
+3,Chinese,64.0,0.5,beef
+4,French,145.0,1.06,beef
+5,Cuban,98.0,1.0,beef
+6,Spanish,53.0,0.35,beef
+7,Hungarian,181.0,2.3,beef
+8,Greek,120.0,0.77,beef
+9,Moroccan,100.0,0.59,beef
+10,Swedish,382.0,5.12,beef
+11,Mexican,224.0,1.9,beef
+12,Hawaiian,76.0,0.9,beef
+13,Japanese,107.0,0.94,beef
+14,Indian,27.0,0.17,beef
+15,German,219.0,1.95,beef
+16,Thai,49.0,0.31,beef
+17,American,86.0,0.75,beef
+0,Italian,236.0,2.21,parsley
+1,Irish,237.0,2.37,parsley
+2,English,128.0,1.22,parsley
+3,Chinese,2.0,0.02,parsley
+4,French,322.0,2.36,parsley
+5,Cuban,52.0,0.53,parsley
+6,Spanish,500.0,3.28,parsley
+7,Hungarian,110.0,1.4,parsley
+8,Greek,244.0,1.57,parsley
+9,Moroccan,314.0,1.85,parsley
+10,Swedish,191.0,2.56,parsley
+11,Mexican,15.0,0.13,parsley
+12,Hawaiian,22.0,0.26,parsley
+13,Japanese,12.0,0.11,parsley
+14,Indian,25.0,0.16,parsley
+15,German,190.0,1.69,parsley
+16,Thai,10.0,0.06,parsley
+17,American,180.0,1.58,parsley
+0,Italian,76.0,0.71,lemon
+1,Irish,27.0,0.27,lemon
+2,English,71.0,0.68,lemon
+3,Chinese,28.0,0.22,lemon
+4,French,110.0,0.8,lemon
+5,Cuban,73.0,0.74,lemon
+6,Spanish,286.0,1.88,lemon
+7,Hungarian,33.0,0.42,lemon
+8,Greek,653.0,4.19,lemon
+9,Moroccan,488.0,2.88,lemon
+10,Swedish,38.0,0.51,lemon
+11,Mexican,12.0,0.1,lemon
+12,Hawaiian,40.0,0.47,lemon
+13,Japanese,59.0,0.52,lemon
+14,Indian,216.0,1.35,lemon
+15,German,154.0,1.37,lemon
+16,Thai,73.0,0.46,lemon
+17,American,201.0,1.76,lemon
+0,Italian,31.0,0.29,rice
+1,Irish,1.0,0.01,rice
+2,English,14.0,0.13,rice
+3,Chinese,389.0,3.03,rice
+4,French,6.0,0.04,rice
+5,Cuban,153.0,1.56,rice
+6,Spanish,502.0,3.3,rice
+7,Hungarian,40.0,0.51,rice
+8,Greek,81.0,0.52,rice
+9,Moroccan,62.0,0.37,rice
+10,Swedish,22.0,0.29,rice
+11,Mexican,95.0,0.81,rice
+12,Hawaiian,142.0,1.68,rice
+13,Japanese,311.0,2.74,rice
+14,Indian,177.0,1.11,rice
+15,German,19.0,0.17,rice
+16,Thai,357.0,2.25,rice
+17,American,67.0,0.59,rice
+0,Italian,1.0,0.01,soy sauce
+1,Irish,14.0,0.14,soy sauce
+2,English,13.0,0.12,soy sauce
+3,Chinese,838.0,6.53,soy sauce
+4,French,1.0,0.01,soy sauce
+5,Cuban,23.0,0.23,soy sauce
+6,Spanish,4.0,0.03,soy sauce
+7,Hungarian,3.0,0.04,soy sauce
+8,Greek,1.0,0.01,soy sauce
+9,Moroccan,6.0,0.04,soy sauce
+10,Swedish,37.0,0.5,soy sauce
+11,Mexican,3.0,0.03,soy sauce
+12,Hawaiian,356.0,4.22,soy sauce
+13,Japanese,718.0,6.33,soy sauce
+14,Indian,5.0,0.03,soy sauce
+15,German,1.0,0.01,soy sauce
+16,Thai,400.0,2.53,soy sauce
+17,American,20.0,0.18,soy sauce
+0,Italian,2.0,0.02,cumin
+1,Irish,5.0,0.05,cumin
+2,English,19.0,0.18,cumin
+3,Chinese,6.0,0.05,cumin
+4,French,2.0,0.01,cumin
+5,Cuban,426.0,4.34,cumin
+6,Spanish,74.0,0.49,cumin
+7,Hungarian,8.0,0.1,cumin
+8,Greek,76.0,0.49,cumin
+9,Moroccan,715.0,4.22,cumin
+10,Swedish,7.0,0.09,cumin
+11,Mexican,311.0,2.64,cumin
+12,Hawaiian,24.0,0.28,cumin
+13,Japanese,2.0,0.02,cumin
+14,Indian,619.0,3.87,cumin
+15,German,8.0,0.07,cumin
+16,Thai,65.0,0.41,cumin
+17,American,69.0,0.6,cumin
+0,Italian,14.0,0.13,paprika
+1,Irish,27.0,0.27,paprika
+2,English,44.0,0.42,paprika
+3,Chinese,7.0,0.05,paprika
+4,French,35.0,0.26,paprika
+5,Cuban,79.0,0.81,paprika
+6,Spanish,604.0,3.97,paprika
+7,Hungarian,551.0,7.02,paprika
+8,Greek,81.0,0.52,paprika
+9,Moroccan,415.0,2.45,paprika
+10,Swedish,35.0,0.47,paprika
+11,Mexican,63.0,0.54,paprika
+12,Hawaiian,31.0,0.37,paprika
+13,Japanese,3.0,0.03,paprika
+14,Indian,139.0,0.87,paprika
+15,German,126.0,1.12,paprika
+16,Thai,15.0,0.09,paprika
+17,American,74.0,0.65,paprika
+0,Italian,24.0,0.22,potato
+1,Irish,590.0,5.89,potato
+2,English,322.0,3.07,potato
+3,Chinese,11.0,0.09,potato
+4,French,127.0,0.93,potato
+5,Cuban,65.0,0.66,potato
+6,Spanish,110.0,0.72,potato
+7,Hungarian,110.0,1.4,potato
+8,Greek,86.0,0.55,potato
+9,Moroccan,150.0,0.88,potato
+10,Swedish,65.0,0.87,potato
+11,Mexican,23.0,0.2,potato
+12,Hawaiian,18.0,0.21,potato
+13,Japanese,79.0,0.7,potato
+14,Indian,117.0,0.73,potato
+15,German,151.0,1.35,potato
+16,Thai,63.0,0.4,potato
+17,American,59.0,0.52,potato
+0,Italian,25.0,0.23,carrot
+1,Irish,515.0,5.14,carrot
+2,English,179.0,1.71,carrot
+3,Chinese,122.0,0.95,carrot
+4,French,241.0,1.76,carrot
+5,Cuban,22.0,0.22,carrot
+6,Spanish,52.0,0.34,carrot
+7,Hungarian,76.0,0.97,carrot
+8,Greek,22.0,0.14,carrot
+9,Moroccan,242.0,1.43,carrot
+10,Swedish,12.0,0.16,carrot
+11,Mexican,7.0,0.06,carrot
+12,Hawaiian,29.0,0.34,carrot
+13,Japanese,166.0,1.46,carrot
+14,Indian,53.0,0.33,carrot
+15,German,122.0,1.09,carrot
+16,Thai,170.0,1.07,carrot
+17,American,57.0,0.5,carrot
+0,Italian,5.0,0.05,cilantro
+1,Irish,5.0,0.05,cilantro
+2,English,2.0,0.02,cilantro
+3,Chinese,47.0,0.37,cilantro
+4,French,2.0,0.01,cilantro
+5,Cuban,211.0,2.15,cilantro
+6,Spanish,62.0,0.41,cilantro
+7,Hungarian,1.0,0.01,cilantro
+8,Greek,8.0,0.05,cilantro
+9,Moroccan,362.0,2.13,cilantro
+10,Swedish,1.0,0.01,cilantro
+11,Mexican,356.0,3.02,cilantro
+12,Hawaiian,74.0,0.88,cilantro
+13,Japanese,41.0,0.36,cilantro
+14,Indian,362.0,2.26,cilantro
+15,German,1.0,0.01,cilantro
+16,Thai,439.0,2.77,cilantro
+17,American,57.0,0.5,cilantro
+0,Italian,76.0,0.71,milk
+1,Irish,89.0,0.89,milk
+2,English,262.0,2.5,milk
+3,Chinese,4.0,0.03,milk
+4,French,105.0,0.77,milk
+5,Cuban,20.0,0.2,milk
+6,Spanish,22.0,0.14,milk
+7,Hungarian,21.0,0.27,milk
+8,Greek,73.0,0.47,milk
+9,Moroccan,18.0,0.11,milk
+10,Swedish,239.0,3.2,milk
+11,Mexican,29.0,0.25,milk
+12,Hawaiian,65.0,0.77,milk
+13,Japanese,15.0,0.13,milk
+14,Indian,220.0,1.38,milk
+15,German,125.0,1.11,milk
+16,Thai,512.0,3.23,milk
+17,American,93.0,0.81,milk
+0,Italian,98.0,0.92,cream
+1,Irish,74.0,0.74,cream
+2,English,116.0,1.11,cream
+3,Chinese,1.0,0.01,cream
+4,French,171.0,1.25,cream
+5,Cuban,19.0,0.19,cream
+6,Spanish,16.0,0.11,cream
+7,Hungarian,328.0,4.18,cream
+8,Greek,40.0,0.26,cream
+9,Moroccan,8.0,0.05,cream
+10,Swedish,363.0,4.87,cream
+11,Mexican,276.0,2.34,cream
+12,Hawaiian,23.0,0.27,cream
+13,Japanese,13.0,0.11,cream
+14,Indian,128.0,0.8,cream
+15,German,167.0,1.49,cream
+16,Thai,36.0,0.23,cream
+17,American,71.0,0.62,cream
+0,Italian,142.0,1.33,olive
+1,Irish,34.0,0.34,olive
+2,English,47.0,0.45,olive
+3,Chinese,14.0,0.11,olive
+4,French,151.0,1.1,olive
+5,Cuban,136.0,1.39,olive
+6,Spanish,279.0,1.83,olive
+7,Hungarian,27.0,0.34,olive
+8,Greek,405.0,2.6,olive
+9,Moroccan,299.0,1.76,olive
+10,Swedish,27.0,0.36,olive
+11,Mexican,96.0,0.82,olive
+12,Hawaiian,37.0,0.44,olive
+13,Japanese,21.0,0.19,olive
+14,Indian,36.0,0.23,olive
+15,German,21.0,0.19,olive
+16,Thai,18.0,0.11,olive
+17,American,31.0,0.27,olive
+0,Italian,60.0,0.56,bell pepper
+1,Irish,5.0,0.05,bell pepper
+2,English,6.0,0.06,bell pepper
+3,Chinese,75.0,0.58,bell pepper
+4,French,62.0,0.45,bell pepper
+5,Cuban,169.0,1.72,bell pepper
+6,Spanish,347.0,2.28,bell pepper
+7,Hungarian,148.0,1.88,bell pepper
+8,Greek,111.0,0.71,bell pepper
+9,Moroccan,75.0,0.44,bell pepper
+10,Swedish,5.0,0.07,bell pepper
+11,Mexican,134.0,1.14,bell pepper
+12,Hawaiian,140.0,1.66,bell pepper
+13,Japanese,26.0,0.23,bell pepper
+14,Indian,47.0,0.29,bell pepper
+15,German,15.0,0.13,bell pepper
+16,Thai,235.0,1.48,bell pepper
+17,American,142.0,1.24,bell pepper
+0,Italian,36.0,0.34,thyme
+1,Irish,262.0,2.62,thyme
+2,English,201.0,1.92,thyme
+3,Chinese,2.0,0.02,thyme
+4,French,532.0,3.89,thyme
+5,Cuban,23.0,0.23,thyme
+6,Spanish,106.0,0.7,thyme
+7,Hungarian,54.0,0.69,thyme
+8,Greek,114.0,0.73,thyme
+9,Moroccan,26.0,0.15,thyme
+10,Swedish,20.0,0.27,thyme
+11,Mexican,5.0,0.04,thyme
+12,Hawaiian,5.0,0.06,thyme
+13,Japanese,2.0,0.02,thyme
+14,Indian,4.0,0.03,thyme
+15,German,67.0,0.6,thyme
+16,Thai,2.0,0.01,thyme
+17,American,186.0,1.63,thyme
+0,Italian,13.0,0.12,vegetable oil
+1,Irish,78.0,0.78,vegetable oil
+2,English,84.0,0.8,vegetable oil
+3,Chinese,247.0,1.92,vegetable oil
+4,French,46.0,0.34,vegetable oil
+5,Cuban,69.0,0.7,vegetable oil
+6,Spanish,22.0,0.14,vegetable oil
+7,Hungarian,75.0,0.95,vegetable oil
+8,Greek,12.0,0.08,vegetable oil
+9,Moroccan,30.0,0.18,vegetable oil
+10,Swedish,48.0,0.64,vegetable oil
+11,Mexican,68.0,0.58,vegetable oil
+12,Hawaiian,44.0,0.52,vegetable oil
+13,Japanese,185.0,1.63,vegetable oil
+14,Indian,155.0,0.97,vegetable oil
+15,German,151.0,1.35,vegetable oil
+16,Thai,204.0,1.29,vegetable oil
+17,American,111.0,0.97,vegetable oil
+0,Italian,105.0,0.98,kosher salt
+1,Irish,58.0,0.58,kosher salt
+2,English,89.0,0.85,kosher salt
+3,Chinese,42.0,0.33,kosher salt
+4,French,160.0,1.17,kosher salt
+5,Cuban,104.0,1.06,kosher salt
+6,Spanish,140.0,0.92,kosher salt
+7,Hungarian,53.0,0.67,kosher salt
+8,Greek,145.0,0.93,kosher salt
+9,Moroccan,154.0,0.91,kosher salt
+10,Swedish,56.0,0.75,kosher salt
+11,Mexican,79.0,0.67,kosher salt
+12,Hawaiian,34.0,0.4,kosher salt
+13,Japanese,74.0,0.65,kosher salt
+14,Indian,85.0,0.53,kosher salt
+15,German,76.0,0.68,kosher salt
+16,Thai,64.0,0.4,kosher salt
+17,American,69.0,0.6,kosher salt
+0,Italian,131.0,1.23,oregano
+1,Irish,13.0,0.13,oregano
+2,English,21.0,0.2,oregano
+3,Chinese,0.0,0.0,oregano
+4,French,34.0,0.25,oregano
+5,Cuban,334.0,3.4,oregano
+6,Spanish,87.0,0.57,oregano
+7,Hungarian,6.0,0.08,oregano
+8,Greek,646.0,4.15,oregano
+9,Moroccan,19.0,0.11,oregano
+10,Swedish,14.0,0.19,oregano
+11,Mexican,112.0,0.95,oregano
+12,Hawaiian,19.0,0.23,oregano
+13,Japanese,0.0,0.0,oregano
+14,Indian,0.0,0.0,oregano
+15,German,12.0,0.11,oregano
+16,Thai,0.0,0.0,oregano
+17,American,70.0,0.61,oregano
+0,Italian,1.0,0.01,lime
+1,Irish,2.0,0.02,lime
+2,English,2.0,0.02,lime
+3,Chinese,16.0,0.12,lime
+4,French,2.0,0.01,lime
+5,Cuban,349.0,3.56,lime
+6,Spanish,13.0,0.09,lime
+7,Hungarian,1.0,0.01,lime
+8,Greek,9.0,0.06,lime
+9,Moroccan,21.0,0.12,lime
+10,Swedish,0.0,0.0,lime
+11,Mexican,238.0,2.02,lime
+12,Hawaiian,42.0,0.5,lime
+13,Japanese,27.0,0.24,lime
+14,Indian,91.0,0.57,lime
+15,German,2.0,0.02,lime
+16,Thai,629.0,3.97,lime
+17,American,58.0,0.51,lime
+0,Italian,21.0,0.2,bay leaf
+1,Irish,226.0,2.26,bay leaf
+2,English,75.0,0.72,bay leaf
+3,Chinese,5.0,0.04,bay leaf
+4,French,277.0,2.03,bay leaf
+5,Cuban,147.0,1.5,bay leaf
+6,Spanish,162.0,1.06,bay leaf
+7,Hungarian,80.0,1.02,bay leaf
+8,Greek,21.0,0.13,bay leaf
+9,Moroccan,58.0,0.34,bay leaf
+10,Swedish,22.0,0.29,bay leaf
+11,Mexican,20.0,0.17,bay leaf
+12,Hawaiian,3.0,0.04,bay leaf
+13,Japanese,3.0,0.03,bay leaf
+14,Indian,116.0,0.73,bay leaf
+15,German,195.0,1.74,bay leaf
+16,Thai,12.0,0.08,bay leaf
+17,American,54.0,0.47,bay leaf
+0,Italian,0.0,0.0,coriander
+1,Irish,23.0,0.23,coriander
+2,English,12.0,0.11,coriander
+3,Chinese,14.0,0.11,coriander
+4,French,13.0,0.1,coriander
+5,Cuban,28.0,0.29,coriander
+6,Spanish,18.0,0.12,coriander
+7,Hungarian,2.0,0.03,coriander
+8,Greek,36.0,0.23,coriander
+9,Moroccan,418.0,2.47,coriander
+10,Swedish,0.0,0.0,coriander
+11,Mexican,28.0,0.24,coriander
+12,Hawaiian,4.0,0.05,coriander
+13,Japanese,11.0,0.1,coriander
+14,Indian,552.0,3.45,coriander
+15,German,11.0,0.1,coriander
+16,Thai,139.0,0.88,coriander
+17,American,14.0,0.12,coriander
+0,Italian,76.0,0.71,mushroom
+1,Irish,61.0,0.61,mushroom
+2,English,200.0,1.91,mushroom
+3,Chinese,121.0,0.94,mushroom
+4,French,283.0,2.07,mushroom
+5,Cuban,5.0,0.05,mushroom
+6,Spanish,39.0,0.26,mushroom
+7,Hungarian,79.0,1.01,mushroom
+8,Greek,23.0,0.15,mushroom
+9,Moroccan,13.0,0.08,mushroom
+10,Swedish,85.0,1.14,mushroom
+11,Mexican,24.0,0.2,mushroom
+12,Hawaiian,31.0,0.37,mushroom
+13,Japanese,170.0,1.5,mushroom
+14,Indian,14.0,0.09,mushroom
+15,German,98.0,0.87,mushroom
+16,Thai,65.0,0.41,mushroom
+17,American,73.0,0.64,mushroom
+0,Italian,76.0,0.71,chicken broth
+1,Irish,29.0,0.29,chicken broth
+2,English,24.0,0.23,chicken broth
+3,Chinese,95.0,0.74,chicken broth
+4,French,122.0,0.89,chicken broth
+5,Cuban,65.0,0.66,chicken broth
+6,Spanish,225.0,1.48,chicken broth
+7,Hungarian,115.0,1.46,chicken broth
+8,Greek,41.0,0.26,chicken broth
+9,Moroccan,161.0,0.95,chicken broth
+10,Swedish,28.0,0.38,chicken broth
+11,Mexican,64.0,0.54,chicken broth
+12,Hawaiian,42.0,0.5,chicken broth
+13,Japanese,23.0,0.2,chicken broth
+14,Indian,22.0,0.14,chicken broth
+15,German,59.0,0.53,chicken broth
+16,Thai,89.0,0.56,chicken broth
+17,American,150.0,1.31,chicken broth
+0,Italian,16.0,0.15,pork
+1,Irish,17.0,0.17,pork
+2,English,75.0,0.72,pork
+3,Chinese,139.0,1.08,pork
+4,French,45.0,0.33,pork
+5,Cuban,146.0,1.49,pork
+6,Spanish,49.0,0.32,pork
+7,Hungarian,66.0,0.84,pork
+8,Greek,30.0,0.19,pork
+9,Moroccan,12.0,0.07,pork
+10,Swedish,222.0,2.98,pork
+11,Mexican,52.0,0.44,pork
+12,Hawaiian,74.0,0.88,pork
+13,Japanese,99.0,0.87,pork
+14,Indian,5.0,0.03,pork
+15,German,210.0,1.87,pork
+16,Thai,55.0,0.35,pork
+17,American,77.0,0.67,pork
+0,Italian,4.0,0.04,brown sugar
+1,Irish,74.0,0.74,brown sugar
+2,English,14.0,0.13,brown sugar
+3,Chinese,151.0,1.18,brown sugar
+4,French,8.0,0.06,brown sugar
+5,Cuban,32.0,0.33,brown sugar
+6,Spanish,4.0,0.03,brown sugar
+7,Hungarian,35.0,0.45,brown sugar
+8,Greek,3.0,0.02,brown sugar
+9,Moroccan,18.0,0.11,brown sugar
+10,Swedish,33.0,0.44,brown sugar
+11,Mexican,13.0,0.11,brown sugar
+12,Hawaiian,263.0,3.12,brown sugar
+13,Japanese,124.0,1.09,brown sugar
+14,Indian,28.0,0.18,brown sugar
+15,German,151.0,1.35,brown sugar
+16,Thai,286.0,1.81,brown sugar
+17,American,89.0,0.78,brown sugar
+0,Italian,2.0,0.02,yogurt
+1,Irish,8.0,0.08,yogurt
+2,English,13.0,0.12,yogurt
+3,Chinese,0.0,0.0,yogurt
+4,French,4.0,0.03,yogurt
+5,Cuban,1.0,0.01,yogurt
+6,Spanish,4.0,0.03,yogurt
+7,Hungarian,30.0,0.38,yogurt
+8,Greek,368.0,2.36,yogurt
+9,Moroccan,83.0,0.49,yogurt
+10,Swedish,6.0,0.08,yogurt
+11,Mexican,27.0,0.23,yogurt
+12,Hawaiian,3.0,0.04,yogurt
+13,Japanese,0.0,0.0,yogurt
+14,Indian,310.0,1.94,yogurt
+15,German,5.0,0.04,yogurt
+16,Thai,2.0,0.01,yogurt
+17,American,9.0,0.08,yogurt
+0,Italian,89.0,0.83,egg
+1,Irish,27.0,0.27,egg
+2,English,139.0,1.33,egg
+3,Chinese,96.0,0.75,egg
+4,French,151.0,1.1,egg
+5,Cuban,18.0,0.18,egg
+6,Spanish,52.0,0.34,egg
+7,Hungarian,31.0,0.39,egg
+8,Greek,69.0,0.44,egg
+9,Moroccan,28.0,0.17,egg
+10,Swedish,107.0,1.43,egg
+11,Mexican,19.0,0.16,egg
+12,Hawaiian,32.0,0.38,egg
+13,Japanese,123.0,1.08,egg
+14,Indian,12.0,0.08,egg
+15,German,184.0,1.64,egg
+16,Thai,71.0,0.45,egg
+17,American,43.0,0.38,egg
+0,Italian,8.0,0.07,mustard
+1,Irish,144.0,1.44,mustard
+2,English,143.0,1.36,mustard
+3,Chinese,9.0,0.07,mustard
+4,French,141.0,1.03,mustard
+5,Cuban,74.0,0.75,mustard
+6,Spanish,12.0,0.08,mustard
+7,Hungarian,39.0,0.5,mustard
+8,Greek,34.0,0.22,mustard
+9,Moroccan,4.0,0.02,mustard
+10,Swedish,66.0,0.88,mustard
+11,Mexican,3.0,0.03,mustard
+12,Hawaiian,48.0,0.57,mustard
+13,Japanese,20.0,0.18,mustard
+14,Indian,114.0,0.71,mustard
+15,German,208.0,1.85,mustard
+16,Thai,3.0,0.02,mustard
+17,American,165.0,1.45,mustard
+0,Italian,485.0,4.54,parmesan cheese
+1,Irish,20.0,0.2,parmesan cheese
+2,English,42.0,0.4,parmesan cheese
+3,Chinese,1.0,0.01,parmesan cheese
+4,French,54.0,0.4,parmesan cheese
+5,Cuban,3.0,0.03,parmesan cheese
+6,Spanish,8.0,0.05,parmesan cheese
+7,Hungarian,2.0,0.03,parmesan cheese
+8,Greek,52.0,0.33,parmesan cheese
+9,Moroccan,4.0,0.02,parmesan cheese
+10,Swedish,15.0,0.2,parmesan cheese
+11,Mexican,5.0,0.04,parmesan cheese
+12,Hawaiian,11.0,0.13,parmesan cheese
+13,Japanese,1.0,0.01,parmesan cheese
+14,Indian,0.0,0.0,parmesan cheese
+15,German,16.0,0.14,parmesan cheese
+16,Thai,2.0,0.01,parmesan cheese
+17,American,43.0,0.38,parmesan cheese
+0,Italian,1.0,0.01,turmeric
+1,Irish,0.0,0.0,turmeric
+2,English,5.0,0.05,turmeric
+3,Chinese,4.0,0.03,turmeric
+4,French,1.0,0.01,turmeric
+5,Cuban,8.0,0.08,turmeric
+6,Spanish,71.0,0.47,turmeric
+7,Hungarian,1.0,0.01,turmeric
+8,Greek,4.0,0.03,turmeric
+9,Moroccan,351.0,2.07,turmeric
+10,Swedish,1.0,0.01,turmeric
+11,Mexican,1.0,0.01,turmeric
+12,Hawaiian,0.0,0.0,turmeric
+13,Japanese,3.0,0.03,turmeric
+14,Indian,585.0,3.66,turmeric
+15,German,1.0,0.01,turmeric
+16,Thai,56.0,0.35,turmeric
+17,American,0.0,0.0,turmeric
+0,Italian,10.0,0.09,chili
+1,Irish,6.0,0.06,chili
+2,English,12.0,0.11,chili
+3,Chinese,179.0,1.39,chili
+4,French,1.0,0.01,chili
+5,Cuban,34.0,0.35,chili
+6,Spanish,28.0,0.18,chili
+7,Hungarian,7.0,0.09,chili
+8,Greek,8.0,0.05,chili
+9,Moroccan,47.0,0.28,chili
+10,Swedish,5.0,0.07,chili
+11,Mexican,155.0,1.32,chili
+12,Hawaiian,32.0,0.38,chili
+13,Japanese,37.0,0.33,chili
+14,Indian,196.0,1.23,chili
+15,German,7.0,0.06,chili
+16,Thai,294.0,1.86,chili
+17,American,23.0,0.2,chili
+0,Italian,7.0,0.07,sour cream
+1,Irish,27.0,0.27,sour cream
+2,English,23.0,0.22,sour cream
+3,Chinese,1.0,0.01,sour cream
+4,French,24.0,0.18,sour cream
+5,Cuban,14.0,0.14,sour cream
+6,Spanish,4.0,0.03,sour cream
+7,Hungarian,318.0,4.05,sour cream
+8,Greek,18.0,0.12,sour cream
+9,Moroccan,5.0,0.03,sour cream
+10,Swedish,170.0,2.28,sour cream
+11,Mexican,268.0,2.28,sour cream
+12,Hawaiian,11.0,0.13,sour cream
+13,Japanese,1.0,0.01,sour cream
+14,Indian,10.0,0.06,sour cream
+15,German,105.0,0.94,sour cream
+16,Thai,1.0,0.01,sour cream
+17,American,39.0,0.34,sour cream
+0,Italian,1.0,0.01,cinnamon
+1,Irish,18.0,0.18,cinnamon
+2,English,20.0,0.19,cinnamon
+3,Chinese,19.0,0.15,cinnamon
+4,French,5.0,0.04,cinnamon
+5,Cuban,27.0,0.28,cinnamon
+6,Spanish,13.0,0.09,cinnamon
+7,Hungarian,1.0,0.01,cinnamon
+8,Greek,85.0,0.55,cinnamon
+9,Moroccan,557.0,3.28,cinnamon
+10,Swedish,17.0,0.23,cinnamon
+11,Mexican,13.0,0.11,cinnamon
+12,Hawaiian,8.0,0.09,cinnamon
+13,Japanese,4.0,0.04,cinnamon
+14,Indian,209.0,1.31,cinnamon
+15,German,13.0,0.12,cinnamon
+16,Thai,19.0,0.12,cinnamon
+17,American,16.0,0.14,cinnamon
+0,Italian,271.0,2.54,basil
+1,Irish,12.0,0.12,basil
+2,English,30.0,0.29,basil
+3,Chinese,11.0,0.09,basil
+4,French,79.0,0.58,basil
+5,Cuban,4.0,0.04,basil
+6,Spanish,14.0,0.09,basil
+7,Hungarian,8.0,0.1,basil
+8,Greek,94.0,0.6,basil
+9,Moroccan,18.0,0.11,basil
+10,Swedish,4.0,0.05,basil
+11,Mexican,7.0,0.06,basil
+12,Hawaiian,19.0,0.23,basil
+13,Japanese,7.0,0.06,basil
+14,Indian,3.0,0.02,basil
+15,German,4.0,0.04,basil
+16,Thai,337.0,2.13,basil
+17,American,46.0,0.4,basil
+0,Italian,66.0,0.62,bread
+1,Irish,20.0,0.2,bread
+2,English,45.0,0.43,bread
+3,Chinese,4.0,0.03,bread
+4,French,108.0,0.79,bread
+5,Cuban,34.0,0.35,bread
+6,Spanish,75.0,0.49,bread
+7,Hungarian,12.0,0.15,bread
+8,Greek,114.0,0.73,bread
+9,Moroccan,29.0,0.17,bread
+10,Swedish,188.0,2.52,bread
+11,Mexican,8.0,0.07,bread
+12,Hawaiian,28.0,0.33,bread
+13,Japanese,33.0,0.29,bread
+14,Indian,16.0,0.1,bread
+15,German,104.0,0.93,bread
+16,Thai,11.0,0.07,bread
+17,American,70.0,0.61,bread
+0,Italian,46.0,0.43,tomato paste
+1,Irish,112.0,1.12,tomato paste
+2,English,58.0,0.55,tomato paste
+3,Chinese,10.0,0.08,tomato paste
+4,French,106.0,0.78,tomato paste
+5,Cuban,53.0,0.54,tomato paste
+6,Spanish,65.0,0.43,tomato paste
+7,Hungarian,118.0,1.5,tomato paste
+8,Greek,40.0,0.26,tomato paste
+9,Moroccan,100.0,0.59,tomato paste
+10,Swedish,8.0,0.11,tomato paste
+11,Mexican,22.0,0.19,tomato paste
+12,Hawaiian,17.0,0.2,tomato paste
+13,Japanese,8.0,0.07,tomato paste
+14,Indian,111.0,0.69,tomato paste
+15,German,37.0,0.33,tomato paste
+16,Thai,8.0,0.05,tomato paste
+17,American,29.0,0.25,tomato paste
+0,Italian,16.0,0.15,pea
+1,Irish,77.0,0.77,pea
+2,English,101.0,0.96,pea
+3,Chinese,84.0,0.65,pea
+4,French,14.0,0.1,pea
+5,Cuban,18.0,0.18,pea
+6,Spanish,275.0,1.81,pea
+7,Hungarian,6.0,0.08,pea
+8,Greek,7.0,0.04,pea
+9,Moroccan,29.0,0.17,pea
+10,Swedish,4.0,0.05,pea
+11,Mexican,3.0,0.03,pea
+12,Hawaiian,13.0,0.15,pea
+13,Japanese,47.0,0.41,pea
+14,Indian,119.0,0.74,pea
+15,German,4.0,0.04,pea
+16,Thai,78.0,0.49,pea
+17,American,23.0,0.2,pea
+0,Italian,22.0,0.21,chicken stock
+1,Irish,40.0,0.4,chicken stock
+2,English,54.0,0.51,chicken stock
+3,Chinese,80.0,0.62,chicken stock
+4,French,111.0,0.81,chicken stock
+5,Cuban,24.0,0.24,chicken stock
+6,Spanish,174.0,1.14,chicken stock
+7,Hungarian,49.0,0.62,chicken stock
+8,Greek,23.0,0.15,chicken stock
+9,Moroccan,108.0,0.64,chicken stock
+10,Swedish,20.0,0.27,chicken stock
+11,Mexican,33.0,0.28,chicken stock
+12,Hawaiian,12.0,0.14,chicken stock
+13,Japanese,39.0,0.34,chicken stock
+14,Indian,25.0,0.16,chicken stock
+15,German,26.0,0.23,chicken stock
+16,Thai,66.0,0.42,chicken stock
+17,American,9.0,0.08,chicken stock
+0,Italian,2.0,0.02,cornstarch
+1,Irish,34.0,0.34,cornstarch
+2,English,32.0,0.31,cornstarch
+3,Chinese,409.0,3.19,cornstarch
+4,French,23.0,0.17,cornstarch
+5,Cuban,8.0,0.08,cornstarch
+6,Spanish,8.0,0.05,cornstarch
+7,Hungarian,29.0,0.37,cornstarch
+8,Greek,4.0,0.03,cornstarch
+9,Moroccan,2.0,0.01,cornstarch
+10,Swedish,18.0,0.24,cornstarch
+11,Mexican,3.0,0.03,cornstarch
+12,Hawaiian,119.0,1.41,cornstarch
+13,Japanese,65.0,0.57,cornstarch
+14,Indian,18.0,0.11,cornstarch
+15,German,31.0,0.28,cornstarch
+16,Thai,57.0,0.36,cornstarch
+17,American,38.0,0.33,cornstarch
+0,Italian,47.0,0.44,sea salt
+1,Irish,37.0,0.37,sea salt
+2,English,65.0,0.62,sea salt
+3,Chinese,32.0,0.25,sea salt
+4,French,147.0,1.08,sea salt
+5,Cuban,23.0,0.23,sea salt
+6,Spanish,70.0,0.46,sea salt
+7,Hungarian,18.0,0.23,sea salt
+8,Greek,78.0,0.5,sea salt
+9,Moroccan,115.0,0.68,sea salt
+10,Swedish,28.0,0.38,sea salt
+11,Mexican,19.0,0.16,sea salt
+12,Hawaiian,31.0,0.37,sea salt
+13,Japanese,36.0,0.32,sea salt
+14,Indian,61.0,0.38,sea salt
+15,German,15.0,0.13,sea salt
+16,Thai,34.0,0.21,sea salt
+17,American,20.0,0.18,sea salt
+0,Italian,36.0,0.34,shrimp
+1,Irish,0.0,0.0,shrimp
+2,English,0.0,0.0,shrimp
+3,Chinese,73.0,0.57,shrimp
+4,French,24.0,0.18,shrimp
+5,Cuban,17.0,0.17,shrimp
+6,Spanish,316.0,2.08,shrimp
+7,Hungarian,0.0,0.0,shrimp
+8,Greek,45.0,0.29,shrimp
+9,Moroccan,15.0,0.09,shrimp
+10,Swedish,1.0,0.01,shrimp
+11,Mexican,26.0,0.22,shrimp
+12,Hawaiian,13.0,0.15,shrimp
+13,Japanese,44.0,0.39,shrimp
+14,Indian,27.0,0.17,shrimp
+15,German,3.0,0.03,shrimp
+16,Thai,157.0,0.99,shrimp
+17,American,73.0,0.64,shrimp
+0,Italian,1.0,0.01,sesame oil
+1,Irish,0.0,0.0,sesame oil
+2,English,1.0,0.01,sesame oil
+3,Chinese,453.0,3.53,sesame oil
+4,French,0.0,0.0,sesame oil
+5,Cuban,0.0,0.0,sesame oil
+6,Spanish,0.0,0.0,sesame oil
+7,Hungarian,0.0,0.0,sesame oil
+8,Greek,0.0,0.0,sesame oil
+9,Moroccan,2.0,0.01,sesame oil
+10,Swedish,0.0,0.0,sesame oil
+11,Mexican,1.0,0.01,sesame oil
+12,Hawaiian,76.0,0.9,sesame oil
+13,Japanese,235.0,2.07,sesame oil
+14,Indian,6.0,0.04,sesame oil
+15,German,0.0,0.0,sesame oil
+16,Thai,87.0,0.55,sesame oil
+17,American,6.0,0.05,sesame oil
+0,Italian,36.0,0.34,bacon
+1,Irish,82.0,0.82,bacon
+2,English,60.0,0.57,bacon
+3,Chinese,6.0,0.05,bacon
+4,French,207.0,1.51,bacon
+5,Cuban,22.0,0.22,bacon
+6,Spanish,22.0,0.14,bacon
+7,Hungarian,58.0,0.74,bacon
+8,Greek,3.0,0.02,bacon
+9,Moroccan,2.0,0.01,bacon
+10,Swedish,11.0,0.15,bacon
+11,Mexican,12.0,0.1,bacon
+12,Hawaiian,61.0,0.72,bacon
+13,Japanese,10.0,0.09,bacon
+14,Indian,0.0,0.0,bacon
+15,German,167.0,1.49,bacon
+16,Thai,1.0,0.01,bacon
+17,American,53.0,0.46,bacon
+0,Italian,113.0,1.06,sausage
+1,Irish,26.0,0.26,sausage
+2,English,82.0,0.78,sausage
+3,Chinese,10.0,0.08,sausage
+4,French,37.0,0.27,sausage
+5,Cuban,17.0,0.17,sausage
+6,Spanish,264.0,1.73,sausage
+7,Hungarian,28.0,0.36,sausage
+8,Greek,7.0,0.04,sausage
+9,Moroccan,13.0,0.08,sausage
+10,Swedish,11.0,0.15,sausage
+11,Mexican,9.0,0.08,sausage
+12,Hawaiian,17.0,0.2,sausage
+13,Japanese,2.0,0.02,sausage
+14,Indian,0.0,0.0,sausage
+15,German,118.0,1.05,sausage
+16,Thai,0.0,0.0,sausage
+17,American,43.0,0.38,sausage
+0,Italian,1.0,0.01,coconut milk
+1,Irish,1.0,0.01,coconut milk
+2,English,1.0,0.01,coconut milk
+3,Chinese,1.0,0.01,coconut milk
+4,French,4.0,0.03,coconut milk
+5,Cuban,6.0,0.06,coconut milk
+6,Spanish,2.0,0.01,coconut milk
+7,Hungarian,2.0,0.03,coconut milk
+8,Greek,0.0,0.0,coconut milk
+9,Moroccan,9.0,0.05,coconut milk
+10,Swedish,8.0,0.11,coconut milk
+11,Mexican,0.0,0.0,coconut milk
+12,Hawaiian,30.0,0.36,coconut milk
+13,Japanese,4.0,0.04,coconut milk
+14,Indian,200.0,1.25,coconut milk
+15,German,1.0,0.01,coconut milk
+16,Thai,520.0,3.28,coconut milk
+17,American,3.0,0.03,coconut milk
+0,Italian,0.0,0.0,curry
+1,Irish,2.0,0.02,curry
+2,English,10.0,0.1,curry
+3,Chinese,6.0,0.05,curry
+4,French,0.0,0.0,curry
+5,Cuban,0.0,0.0,curry
+6,Spanish,4.0,0.03,curry
+7,Hungarian,0.0,0.0,curry
+8,Greek,0.0,0.0,curry
+9,Moroccan,24.0,0.14,curry
+10,Swedish,0.0,0.0,curry
+11,Mexican,2.0,0.02,curry
+12,Hawaiian,9.0,0.11,curry
+13,Japanese,28.0,0.25,curry
+14,Indian,270.0,1.69,curry
+15,German,13.0,0.12,curry
+16,Thai,422.0,2.66,curry
+17,American,3.0,0.03,curry
+0,Italian,0.0,0.0,pineapple
+1,Irish,2.0,0.02,pineapple
+2,English,1.0,0.01,pineapple
+3,Chinese,21.0,0.16,pineapple
+4,French,0.0,0.0,pineapple
+5,Cuban,24.0,0.24,pineapple
+6,Spanish,1.0,0.01,pineapple
+7,Hungarian,0.0,0.0,pineapple
+8,Greek,0.0,0.0,pineapple
+9,Moroccan,2.0,0.01,pineapple
+10,Swedish,0.0,0.0,pineapple
+11,Mexican,8.0,0.07,pineapple
+12,Hawaiian,672.0,7.97,pineapple
+13,Japanese,6.0,0.05,pineapple
+14,Indian,3.0,0.02,pineapple
+15,German,2.0,0.02,pineapple
+16,Thai,30.0,0.19,pineapple
+17,American,10.0,0.09,pineapple
+0,Italian,7.0,0.07,steak
+1,Irish,29.0,0.29,steak
+2,English,91.0,0.87,steak
+3,Chinese,69.0,0.54,steak
+4,French,42.0,0.31,steak
+5,Cuban,80.0,0.82,steak
+6,Spanish,15.0,0.1,steak
+7,Hungarian,40.0,0.51,steak
+8,Greek,25.0,0.16,steak
+9,Moroccan,26.0,0.15,steak
+10,Swedish,16.0,0.21,steak
+11,Mexican,38.0,0.32,steak
+12,Hawaiian,36.0,0.43,steak
+13,Japanese,64.0,0.56,steak
+14,Indian,5.0,0.03,steak
+15,German,50.0,0.45,steak
+16,Thai,41.0,0.26,steak
+17,American,96.0,0.84,steak
+0,Italian,5.0,0.05,corn
+1,Irish,14.0,0.14,corn
+2,English,22.0,0.21,corn
+3,Chinese,96.0,0.75,corn
+4,French,10.0,0.07,corn
+5,Cuban,20.0,0.2,corn
+6,Spanish,10.0,0.07,corn
+7,Hungarian,7.0,0.09,corn
+8,Greek,10.0,0.06,corn
+9,Moroccan,5.0,0.03,corn
+10,Swedish,2.0,0.03,corn
+11,Mexican,388.0,3.3,corn
+12,Hawaiian,29.0,0.34,corn
+13,Japanese,39.0,0.34,corn
+14,Indian,13.0,0.08,corn
+15,German,10.0,0.09,corn
+16,Thai,35.0,0.22,corn
+17,American,54.0,0.47,corn
+0,Italian,10.0,0.09,honey
+1,Irish,18.0,0.18,honey
+2,English,14.0,0.13,honey
+3,Chinese,145.0,1.13,honey
+4,French,22.0,0.16,honey
+5,Cuban,17.0,0.17,honey
+6,Spanish,12.0,0.08,honey
+7,Hungarian,3.0,0.04,honey
+8,Greek,35.0,0.22,honey
+9,Moroccan,140.0,0.83,honey
+10,Swedish,11.0,0.15,honey
+11,Mexican,12.0,0.1,honey
+12,Hawaiian,102.0,1.21,honey
+13,Japanese,87.0,0.77,honey
+14,Indian,17.0,0.11,honey
+15,German,19.0,0.17,honey
+16,Thai,68.0,0.43,honey
+17,American,32.0,0.28,honey
+0,Italian,6.0,0.06,scallion
+1,Irish,6.0,0.06,scallion
+2,English,6.0,0.06,scallion
+3,Chinese,256.0,1.99,scallion
+4,French,12.0,0.09,scallion
+5,Cuban,19.0,0.19,scallion
+6,Spanish,33.0,0.22,scallion
+7,Hungarian,0.0,0.0,scallion
+8,Greek,18.0,0.12,scallion
+9,Moroccan,21.0,0.12,scallion
+10,Swedish,3.0,0.04,scallion
+11,Mexican,13.0,0.11,scallion
+12,Hawaiian,29.0,0.34,scallion
+13,Japanese,214.0,1.89,scallion
+14,Indian,15.0,0.09,scallion
+15,German,3.0,0.03,scallion
+16,Thai,99.0,0.62,scallion
+17,American,7.0,0.06,scallion
+0,Italian,0.0,0.0,cabbage
+1,Irish,277.0,2.77,cabbage
+2,English,9.0,0.09,cabbage
+3,Chinese,69.0,0.54,cabbage
+4,French,3.0,0.02,cabbage
+5,Cuban,4.0,0.04,cabbage
+6,Spanish,6.0,0.04,cabbage
+7,Hungarian,33.0,0.42,cabbage
+8,Greek,3.0,0.02,cabbage
+9,Moroccan,4.0,0.02,cabbage
+10,Swedish,7.0,0.09,cabbage
+11,Mexican,30.0,0.25,cabbage
+12,Hawaiian,14.0,0.17,cabbage
+13,Japanese,96.0,0.85,cabbage
+14,Indian,6.0,0.04,cabbage
+15,German,133.0,1.19,cabbage
+16,Thai,54.0,0.34,cabbage
+17,American,4.0,0.04,cabbage
+0,Italian,22.0,0.21,shallot
+1,Irish,9.0,0.09,shallot
+2,English,71.0,0.68,shallot
+3,Chinese,27.0,0.21,shallot
+4,French,182.0,1.33,shallot
+5,Cuban,9.0,0.09,shallot
+6,Spanish,39.0,0.26,shallot
+7,Hungarian,8.0,0.1,shallot
+8,Greek,27.0,0.17,shallot
+9,Moroccan,30.0,0.18,shallot
+10,Swedish,10.0,0.13,shallot
+11,Mexican,4.0,0.03,shallot
+12,Hawaiian,2.0,0.02,shallot
+13,Japanese,35.0,0.31,shallot
+14,Indian,23.0,0.14,shallot
+15,German,14.0,0.12,shallot
+16,Thai,160.0,1.01,shallot
+17,American,78.0,0.68,shallot
+0,Italian,7.0,0.07,beef broth
+1,Irish,129.0,1.29,beef broth
+2,English,75.0,0.72,beef broth
+3,Chinese,5.0,0.04,beef broth
+4,French,77.0,0.56,beef broth
+5,Cuban,29.0,0.3,beef broth
+6,Spanish,11.0,0.07,beef broth
+7,Hungarian,71.0,0.9,beef broth
+8,Greek,10.0,0.06,beef broth
+9,Moroccan,20.0,0.12,beef broth
+10,Swedish,170.0,2.28,beef broth
+11,Mexican,14.0,0.12,beef broth
+12,Hawaiian,3.0,0.04,beef broth
+13,Japanese,5.0,0.04,beef broth
+14,Indian,2.0,0.01,beef broth
+15,German,79.0,0.7,beef broth
+16,Thai,2.0,0.01,beef broth
+17,American,32.0,0.28,beef broth
+0,Italian,21.0,0.2,celery
+1,Irish,147.0,1.47,celery
+2,English,79.0,0.75,celery
+3,Chinese,26.0,0.2,celery
+4,French,103.0,0.75,celery
+5,Cuban,11.0,0.11,celery
+6,Spanish,15.0,0.1,celery
+7,Hungarian,41.0,0.52,celery
+8,Greek,10.0,0.06,celery
+9,Moroccan,41.0,0.24,celery
+10,Swedish,16.0,0.21,celery
+11,Mexican,3.0,0.03,celery
+12,Hawaiian,25.0,0.3,celery
+13,Japanese,10.0,0.09,celery
+14,Indian,8.0,0.05,celery
+15,German,67.0,0.6,celery
+16,Thai,1.0,0.01,celery
+17,American,107.0,0.94,celery
+0,Italian,8.0,0.07,feta
+1,Irish,0.0,0.0,feta
+2,English,1.0,0.01,feta
+3,Chinese,0.0,0.0,feta
+4,French,13.0,0.1,feta
+5,Cuban,0.0,0.0,feta
+6,Spanish,3.0,0.02,feta
+7,Hungarian,3.0,0.04,feta
+8,Greek,652.0,4.19,feta
+9,Moroccan,17.0,0.1,feta
+10,Swedish,0.0,0.0,feta
+11,Mexican,11.0,0.09,feta
+12,Hawaiian,2.0,0.02,feta
+13,Japanese,0.0,0.0,feta
+14,Indian,0.0,0.0,feta
+15,German,1.0,0.01,feta
+16,Thai,0.0,0.0,feta
+17,American,12.0,0.11,feta
+0,Italian,0.0,0.0,fish sauce
+1,Irish,1.0,0.01,fish sauce
+2,English,3.0,0.03,fish sauce
+3,Chinese,14.0,0.11,fish sauce
+4,French,0.0,0.0,fish sauce
+5,Cuban,1.0,0.01,fish sauce
+6,Spanish,6.0,0.04,fish sauce
+7,Hungarian,1.0,0.01,fish sauce
+8,Greek,0.0,0.0,fish sauce
+9,Moroccan,0.0,0.0,fish sauce
+10,Swedish,0.0,0.0,fish sauce
+11,Mexican,0.0,0.0,fish sauce
+12,Hawaiian,4.0,0.05,fish sauce
+13,Japanese,8.0,0.07,fish sauce
+14,Indian,2.0,0.01,fish sauce
+15,German,0.0,0.0,fish sauce
+16,Thai,669.0,4.22,fish sauce
+17,American,0.0,0.0,fish sauce
+0,Italian,64.0,0.6,garlic powder
+1,Irish,16.0,0.16,garlic powder
+2,English,30.0,0.29,garlic powder
+3,Chinese,45.0,0.35,garlic powder
+4,French,11.0,0.08,garlic powder
+5,Cuban,48.0,0.49,garlic powder
+6,Spanish,25.0,0.16,garlic powder
+7,Hungarian,21.0,0.27,garlic powder
+8,Greek,89.0,0.57,garlic powder
+9,Moroccan,34.0,0.2,garlic powder
+10,Swedish,43.0,0.58,garlic powder
+11,Mexican,75.0,0.64,garlic powder
+12,Hawaiian,67.0,0.79,garlic powder
+13,Japanese,11.0,0.1,garlic powder
+14,Indian,13.0,0.08,garlic powder
+15,German,26.0,0.23,garlic powder
+16,Thai,15.0,0.09,garlic powder
+17,American,66.0,0.58,garlic powder
+0,Italian,0.0,0.0,saffron
+1,Irish,0.0,0.0,saffron
+2,English,1.0,0.01,saffron
+3,Chinese,0.0,0.0,saffron
+4,French,26.0,0.19,saffron
+5,Cuban,9.0,0.09,saffron
+6,Spanish,441.0,2.9,saffron
+7,Hungarian,0.0,0.0,saffron
+8,Greek,2.0,0.01,saffron
+9,Moroccan,174.0,1.03,saffron
+10,Swedish,1.0,0.01,saffron
+11,Mexican,1.0,0.01,saffron
+12,Hawaiian,0.0,0.0,saffron
+13,Japanese,0.0,0.0,saffron
+14,Indian,23.0,0.14,saffron
+15,German,0.0,0.0,saffron
+16,Thai,0.0,0.0,saffron
+17,American,1.0,0.01,saffron
+0,Italian,2.0,0.02,tortilla
+1,Irish,5.0,0.05,tortilla
+2,English,4.0,0.04,tortilla
+3,Chinese,4.0,0.03,tortilla
+4,French,0.0,0.0,tortilla
+5,Cuban,19.0,0.19,tortilla
+6,Spanish,0.0,0.0,tortilla
+7,Hungarian,1.0,0.01,tortilla
+8,Greek,25.0,0.16,tortilla
+9,Moroccan,2.0,0.01,tortilla
+10,Swedish,0.0,0.0,tortilla
+11,Mexican,541.0,4.6,tortilla
+12,Hawaiian,27.0,0.32,tortilla
+13,Japanese,1.0,0.01,tortilla
+14,Indian,4.0,0.03,tortilla
+15,German,3.0,0.03,tortilla
+16,Thai,17.0,0.11,tortilla
+17,American,19.0,0.17,tortilla
+0,Italian,1.0,0.01,lamb
+1,Irish,134.0,1.34,lamb
+2,English,37.0,0.35,lamb
+3,Chinese,4.0,0.03,lamb
+4,French,13.0,0.1,lamb
+5,Cuban,1.0,0.01,lamb
+6,Spanish,16.0,0.11,lamb
+7,Hungarian,2.0,0.03,lamb
+8,Greek,188.0,1.21,lamb
+9,Moroccan,170.0,1.0,lamb
+10,Swedish,9.0,0.12,lamb
+11,Mexican,0.0,0.0,lamb
+12,Hawaiian,2.0,0.02,lamb
+13,Japanese,0.0,0.0,lamb
+14,Indian,47.0,0.29,lamb
+15,German,3.0,0.03,lamb
+16,Thai,2.0,0.01,lamb
+17,American,25.0,0.22,lamb
+0,Italian,2.0,0.02,chili powder
+1,Irish,7.0,0.07,chili powder
+2,English,8.0,0.08,chili powder
+3,Chinese,5.0,0.04,chili powder
+4,French,0.0,0.0,chili powder
+5,Cuban,37.0,0.38,chili powder
+6,Spanish,23.0,0.15,chili powder
+7,Hungarian,2.0,0.03,chili powder
+8,Greek,7.0,0.04,chili powder
+9,Moroccan,25.0,0.15,chili powder
+10,Swedish,3.0,0.04,chili powder
+11,Mexican,216.0,1.83,chili powder
+12,Hawaiian,20.0,0.24,chili powder
+13,Japanese,3.0,0.03,chili powder
+14,Indian,195.0,1.22,chili powder
+15,German,4.0,0.04,chili powder
+16,Thai,22.0,0.14,chili powder
+17,American,72.0,0.63,chili powder
+0,Italian,8.0,0.07,canola oil
+1,Irish,24.0,0.24,canola oil
+2,English,20.0,0.19,canola oil
+3,Chinese,88.0,0.69,canola oil
+4,French,36.0,0.26,canola oil
+5,Cuban,25.0,0.25,canola oil
+6,Spanish,11.0,0.07,canola oil
+7,Hungarian,29.0,0.37,canola oil
+8,Greek,11.0,0.07,canola oil
+9,Moroccan,16.0,0.09,canola oil
+10,Swedish,13.0,0.17,canola oil
+11,Mexican,35.0,0.3,canola oil
+12,Hawaiian,19.0,0.23,canola oil
+13,Japanese,75.0,0.66,canola oil
+14,Indian,59.0,0.37,canola oil
+15,German,72.0,0.64,canola oil
+16,Thai,68.0,0.43,canola oil
+17,American,33.0,0.29,canola oil
+0,Italian,4.0,0.04,cayenne pepper
+1,Irish,18.0,0.18,cayenne pepper
+2,English,15.0,0.14,cayenne pepper
+3,Chinese,8.0,0.06,cayenne pepper
+4,French,20.0,0.15,cayenne pepper
+5,Cuban,33.0,0.34,cayenne pepper
+6,Spanish,44.0,0.29,cayenne pepper
+7,Hungarian,32.0,0.41,cayenne pepper
+8,Greek,22.0,0.14,cayenne pepper
+9,Moroccan,154.0,0.91,cayenne pepper
+10,Swedish,4.0,0.05,cayenne pepper
+11,Mexican,39.0,0.33,cayenne pepper
+12,Hawaiian,18.0,0.21,cayenne pepper
+13,Japanese,13.0,0.11,cayenne pepper
+14,Indian,135.0,0.84,cayenne pepper
+15,German,11.0,0.1,cayenne pepper
+16,Thai,25.0,0.16,cayenne pepper
+17,American,45.0,0.39,cayenne pepper
+0,Italian,8.0,0.07,worcestershire sauce
+1,Irish,89.0,0.89,worcestershire sauce
+2,English,135.0,1.29,worcestershire sauce
+3,Chinese,7.0,0.05,worcestershire sauce
+4,French,22.0,0.16,worcestershire sauce
+5,Cuban,9.0,0.09,worcestershire sauce
+6,Spanish,9.0,0.06,worcestershire sauce
+7,Hungarian,50.0,0.64,worcestershire sauce
+8,Greek,7.0,0.04,worcestershire sauce
+9,Moroccan,1.0,0.01,worcestershire sauce
+10,Swedish,96.0,1.29,worcestershire sauce
+11,Mexican,13.0,0.11,worcestershire sauce
+12,Hawaiian,42.0,0.5,worcestershire sauce
+13,Japanese,25.0,0.22,worcestershire sauce
+14,Indian,0.0,0.0,worcestershire sauce
+15,German,26.0,0.23,worcestershire sauce
+16,Thai,5.0,0.03,worcestershire sauce
+17,American,90.0,0.79,worcestershire sauce
+0,Italian,17.0,0.16,zest
+1,Irish,4.0,0.04,zest
+2,English,14.0,0.13,zest
+3,Chinese,31.0,0.24,zest
+4,French,35.0,0.26,zest
+5,Cuban,64.0,0.65,zest
+6,Spanish,42.0,0.28,zest
+7,Hungarian,5.0,0.06,zest
+8,Greek,152.0,0.98,zest
+9,Moroccan,104.0,0.61,zest
+10,Swedish,8.0,0.11,zest
+11,Mexican,21.0,0.18,zest
+12,Hawaiian,11.0,0.13,zest
+13,Japanese,16.0,0.14,zest
+14,Indian,9.0,0.06,zest
+15,German,10.0,0.09,zest
+16,Thai,70.0,0.44,zest
+17,American,12.0,0.11,zest
+0,Italian,6.0,0.06,cheddar cheese
+1,Irish,45.0,0.45,cheddar cheese
+2,English,110.0,1.05,cheddar cheese
+3,Chinese,0.0,0.0,cheddar cheese
+4,French,17.0,0.12,cheddar cheese
+5,Cuban,6.0,0.06,cheddar cheese
+6,Spanish,5.0,0.03,cheddar cheese
+7,Hungarian,1.0,0.01,cheddar cheese
+8,Greek,11.0,0.07,cheddar cheese
+9,Moroccan,2.0,0.01,cheddar cheese
+10,Swedish,7.0,0.09,cheddar cheese
+11,Mexican,299.0,2.54,cheddar cheese
+12,Hawaiian,29.0,0.34,cheddar cheese
+13,Japanese,1.0,0.01,cheddar cheese
+14,Indian,0.0,0.0,cheddar cheese
+15,German,27.0,0.24,cheddar cheese
+16,Thai,0.0,0.0,cheddar cheese
+17,American,49.0,0.43,cheddar cheese
+0,Italian,28.0,0.26,nutmeg
+1,Irish,13.0,0.13,nutmeg
+2,English,59.0,0.56,nutmeg
+3,Chinese,0.0,0.0,nutmeg
+4,French,59.0,0.43,nutmeg
+5,Cuban,5.0,0.05,nutmeg
+6,Spanish,10.0,0.07,nutmeg
+7,Hungarian,4.0,0.05,nutmeg
+8,Greek,45.0,0.29,nutmeg
+9,Moroccan,30.0,0.18,nutmeg
+10,Swedish,238.0,3.19,nutmeg
+11,Mexican,1.0,0.01,nutmeg
+12,Hawaiian,7.0,0.08,nutmeg
+13,Japanese,3.0,0.03,nutmeg
+14,Indian,28.0,0.18,nutmeg
+15,German,59.0,0.53,nutmeg
+16,Thai,7.0,0.04,nutmeg
+17,American,18.0,0.16,nutmeg
+0,Italian,0.0,0.0,mirin
+1,Irish,0.0,0.0,mirin
+2,English,0.0,0.0,mirin
+3,Chinese,15.0,0.12,mirin
+4,French,1.0,0.01,mirin
+5,Cuban,0.0,0.0,mirin
+6,Spanish,0.0,0.0,mirin
+7,Hungarian,0.0,0.0,mirin
+8,Greek,0.0,0.0,mirin
+9,Moroccan,0.0,0.0,mirin
+10,Swedish,1.0,0.01,mirin
+11,Mexican,0.0,0.0,mirin
+12,Hawaiian,8.0,0.09,mirin
+13,Japanese,569.0,5.01,mirin
+14,Indian,0.0,0.0,mirin
+15,German,0.0,0.0,mirin
+16,Thai,2.0,0.01,mirin
+17,American,0.0,0.0,mirin
+0,Italian,91.0,0.85,spinach
+1,Irish,7.0,0.07,spinach
+2,English,20.0,0.19,spinach
+3,Chinese,10.0,0.08,spinach
+4,French,29.0,0.21,spinach
+5,Cuban,5.0,0.05,spinach
+6,Spanish,20.0,0.13,spinach
+7,Hungarian,4.0,0.05,spinach
+8,Greek,183.0,1.17,spinach
+9,Moroccan,26.0,0.15,spinach
+10,Swedish,1.0,0.01,spinach
+11,Mexican,12.0,0.1,spinach
+12,Hawaiian,8.0,0.09,spinach
+13,Japanese,38.0,0.33,spinach
+14,Indian,73.0,0.46,spinach
+15,German,2.0,0.02,spinach
+16,Thai,32.0,0.2,spinach
+17,American,18.0,0.16,spinach
+0,Italian,1.0,0.01,cucumber
+1,Irish,0.0,0.0,cucumber
+2,English,1.0,0.01,cucumber
+3,Chinese,9.0,0.07,cucumber
+4,French,3.0,0.02,cucumber
+5,Cuban,6.0,0.06,cucumber
+6,Spanish,8.0,0.05,cucumber
+7,Hungarian,2.0,0.03,cucumber
+8,Greek,388.0,2.49,cucumber
+9,Moroccan,18.0,0.11,cucumber
+10,Swedish,8.0,0.11,cucumber
+11,Mexican,0.0,0.0,cucumber
+12,Hawaiian,3.0,0.04,cucumber
+13,Japanese,49.0,0.43,cucumber
+14,Indian,13.0,0.08,cucumber
+15,German,2.0,0.02,cucumber
+16,Thai,59.0,0.37,cucumber
+17,American,7.0,0.06,cucumber
+0,Italian,346.0,3.24,mozzarella cheese
+1,Irish,3.0,0.03,mozzarella cheese
+2,English,20.0,0.19,mozzarella cheese
+3,Chinese,0.0,0.0,mozzarella cheese
+4,French,24.0,0.18,mozzarella cheese
+5,Cuban,4.0,0.04,mozzarella cheese
+6,Spanish,1.0,0.01,mozzarella cheese
+7,Hungarian,1.0,0.01,mozzarella cheese
+8,Greek,23.0,0.15,mozzarella cheese
+9,Moroccan,3.0,0.02,mozzarella cheese
+10,Swedish,1.0,0.01,mozzarella cheese
+11,Mexican,35.0,0.3,mozzarella cheese
+12,Hawaiian,88.0,1.04,mozzarella cheese
+13,Japanese,1.0,0.01,mozzarella cheese
+14,Indian,3.0,0.02,mozzarella cheese
+15,German,11.0,0.1,mozzarella cheese
+16,Thai,2.0,0.01,mozzarella cheese
+17,American,10.0,0.09,mozzarella cheese
+0,Italian,0.0,0.0,sesame
+1,Irish,1.0,0.01,sesame
+2,English,1.0,0.01,sesame
+3,Chinese,177.0,1.38,sesame
+4,French,2.0,0.01,sesame
+5,Cuban,1.0,0.01,sesame
+6,Spanish,0.0,0.0,sesame
+7,Hungarian,1.0,0.01,sesame
+8,Greek,2.0,0.01,sesame
+9,Moroccan,18.0,0.11,sesame
+10,Swedish,0.0,0.0,sesame
+11,Mexican,3.0,0.03,sesame
+12,Hawaiian,38.0,0.45,sesame
+13,Japanese,261.0,2.3,sesame
+14,Indian,6.0,0.04,sesame
+15,German,7.0,0.06,sesame
+16,Thai,49.0,0.31,sesame
+17,American,9.0,0.08,sesame
+0,Italian,0.0,0.0,garam masala
+1,Irish,0.0,0.0,garam masala
+2,English,1.0,0.01,garam masala
+3,Chinese,0.0,0.0,garam masala
+4,French,0.0,0.0,garam masala
+5,Cuban,0.0,0.0,garam masala
+6,Spanish,0.0,0.0,garam masala
+7,Hungarian,0.0,0.0,garam masala
+8,Greek,2.0,0.01,garam masala
+9,Moroccan,21.0,0.12,garam masala
+10,Swedish,0.0,0.0,garam masala
+11,Mexican,0.0,0.0,garam masala
+12,Hawaiian,1.0,0.01,garam masala
+13,Japanese,5.0,0.04,garam masala
+14,Indian,542.0,3.39,garam masala
+15,German,0.0,0.0,garam masala
+16,Thai,0.0,0.0,garam masala
+17,American,0.0,0.0,garam masala
+0,Italian,0.0,0.0,masala
+1,Irish,0.0,0.0,masala
+2,English,2.0,0.02,masala
+3,Chinese,0.0,0.0,masala
+4,French,0.0,0.0,masala
+5,Cuban,0.0,0.0,masala
+6,Spanish,0.0,0.0,masala
+7,Hungarian,0.0,0.0,masala
+8,Greek,2.0,0.01,masala
+9,Moroccan,16.0,0.09,masala
+10,Swedish,0.0,0.0,masala
+11,Mexican,0.0,0.0,masala
+12,Hawaiian,2.0,0.02,masala
+13,Japanese,5.0,0.04,masala
+14,Indian,537.0,3.36,masala
+15,German,0.0,0.0,masala
+16,Thai,0.0,0.0,masala
+17,American,0.0,0.0,masala
+0,Italian,25.0,0.23,breadcrumb
+1,Irish,9.0,0.09,breadcrumb
+2,English,33.0,0.31,breadcrumb
+3,Chinese,3.0,0.02,breadcrumb
+4,French,25.0,0.18,breadcrumb
+5,Cuban,8.0,0.08,breadcrumb
+6,Spanish,22.0,0.14,breadcrumb
+7,Hungarian,6.0,0.08,breadcrumb
+8,Greek,26.0,0.17,breadcrumb
+9,Moroccan,23.0,0.14,breadcrumb
+10,Swedish,149.0,2.0,breadcrumb
+11,Mexican,5.0,0.04,breadcrumb
+12,Hawaiian,23.0,0.27,breadcrumb
+13,Japanese,26.0,0.23,breadcrumb
+14,Indian,1.0,0.01,breadcrumb
+15,German,101.0,0.9,breadcrumb
+16,Thai,11.0,0.07,breadcrumb
+17,American,50.0,0.44,breadcrumb
+0,Italian,2.0,0.02,mint
+1,Irish,5.0,0.05,mint
+2,English,11.0,0.1,mint
+3,Chinese,2.0,0.02,mint
+4,French,4.0,0.03,mint
+5,Cuban,35.0,0.36,mint
+6,Spanish,4.0,0.03,mint
+7,Hungarian,0.0,0.0,mint
+8,Greek,171.0,1.1,mint
+9,Moroccan,145.0,0.86,mint
+10,Swedish,0.0,0.0,mint
+11,Mexican,1.0,0.01,mint
+12,Hawaiian,1.0,0.01,mint
+13,Japanese,3.0,0.03,mint
+14,Indian,49.0,0.31,mint
+15,German,1.0,0.01,mint
+16,Thai,79.0,0.5,mint
+17,American,20.0,0.18,mint
+0,Italian,273.0,2.56,pasta
+1,Irish,6.0,0.06,pasta
+2,English,11.0,0.1,pasta
+3,Chinese,8.0,0.06,pasta
+4,French,10.0,0.07,pasta
+5,Cuban,2.0,0.02,pasta
+6,Spanish,17.0,0.11,pasta
+7,Hungarian,16.0,0.2,pasta
+8,Greek,65.0,0.42,pasta
+9,Moroccan,8.0,0.05,pasta
+10,Swedish,11.0,0.15,pasta
+11,Mexican,24.0,0.2,pasta
+12,Hawaiian,15.0,0.18,pasta
+13,Japanese,6.0,0.05,pasta
+14,Indian,1.0,0.01,pasta
+15,German,10.0,0.09,pasta
+16,Thai,13.0,0.08,pasta
+17,American,21.0,0.18,pasta
+0,Italian,24.0,0.22,rosemary
+1,Irish,78.0,0.78,rosemary
+2,English,69.0,0.66,rosemary
+3,Chinese,0.0,0.0,rosemary
+4,French,92.0,0.67,rosemary
+5,Cuban,4.0,0.04,rosemary
+6,Spanish,29.0,0.19,rosemary
+7,Hungarian,7.0,0.09,rosemary
+8,Greek,77.0,0.49,rosemary
+9,Moroccan,12.0,0.07,rosemary
+10,Swedish,5.0,0.07,rosemary
+11,Mexican,1.0,0.01,rosemary
+12,Hawaiian,6.0,0.07,rosemary
+13,Japanese,0.0,0.0,rosemary
+14,Indian,0.0,0.0,rosemary
+15,German,12.0,0.11,rosemary
+16,Thai,0.0,0.0,rosemary
+17,American,90.0,0.79,rosemary
+0,Italian,4.0,0.04,dill
+1,Irish,6.0,0.06,dill
+2,English,13.0,0.12,dill
+3,Chinese,0.0,0.0,dill
+4,French,10.0,0.07,dill
+5,Cuban,61.0,0.62,dill
+6,Spanish,0.0,0.0,dill
+7,Hungarian,37.0,0.47,dill
+8,Greek,237.0,1.52,dill
+9,Moroccan,5.0,0.03,dill
+10,Swedish,51.0,0.68,dill
+11,Mexican,0.0,0.0,dill
+12,Hawaiian,1.0,0.01,dill
+13,Japanese,1.0,0.01,dill
+14,Indian,2.0,0.01,dill
+15,German,46.0,0.41,dill
+16,Thai,0.0,0.0,dill
+17,American,23.0,0.2,dill
+0,Italian,0.0,0.0,allspice
+1,Irish,35.0,0.35,allspice
+2,English,17.0,0.16,allspice
+3,Chinese,0.0,0.0,allspice
+4,French,10.0,0.07,allspice
+5,Cuban,13.0,0.13,allspice
+6,Spanish,4.0,0.03,allspice
+7,Hungarian,2.0,0.03,allspice
+8,Greek,29.0,0.19,allspice
+9,Moroccan,71.0,0.42,allspice
+10,Swedish,228.0,3.06,allspice
+11,Mexican,1.0,0.01,allspice
+12,Hawaiian,3.0,0.04,allspice
+13,Japanese,1.0,0.01,allspice
+14,Indian,5.0,0.03,allspice
+15,German,40.0,0.36,allspice
+16,Thai,0.0,0.0,allspice
+17,American,19.0,0.17,allspice
+0,Italian,3.0,0.03,dijon mustard
+1,Irish,49.0,0.49,dijon mustard
+2,English,54.0,0.51,dijon mustard
+3,Chinese,2.0,0.02,dijon mustard
+4,French,107.0,0.78,dijon mustard
+5,Cuban,22.0,0.22,dijon mustard
+6,Spanish,7.0,0.05,dijon mustard
+7,Hungarian,3.0,0.04,dijon mustard
+8,Greek,25.0,0.16,dijon mustard
+9,Moroccan,2.0,0.01,dijon mustard
+10,Swedish,38.0,0.51,dijon mustard
+11,Mexican,0.0,0.0,dijon mustard
+12,Hawaiian,9.0,0.11,dijon mustard
+13,Japanese,7.0,0.06,dijon mustard
+14,Indian,0.0,0.0,dijon mustard
+15,German,48.0,0.43,dijon mustard
+16,Thai,0.0,0.0,dijon mustard
+17,American,98.0,0.86,dijon mustard
+0,Italian,0.0,0.0,sesame seed
+1,Irish,0.0,0.0,sesame seed
+2,English,1.0,0.01,sesame seed
+3,Chinese,127.0,0.99,sesame seed
+4,French,1.0,0.01,sesame seed
+5,Cuban,1.0,0.01,sesame seed
+6,Spanish,0.0,0.0,sesame seed
+7,Hungarian,1.0,0.01,sesame seed
+8,Greek,0.0,0.0,sesame seed
+9,Moroccan,16.0,0.09,sesame seed
+10,Swedish,0.0,0.0,sesame seed
+11,Mexican,3.0,0.03,sesame seed
+12,Hawaiian,27.0,0.32,sesame seed
+13,Japanese,238.0,2.1,sesame seed
+14,Indian,6.0,0.04,sesame seed
+15,German,7.0,0.06,sesame seed
+16,Thai,33.0,0.21,sesame seed
+17,American,9.0,0.08,sesame seed
+0,Italian,0.0,0.0,sake
+1,Irish,0.0,0.0,sake
+2,English,0.0,0.0,sake
+3,Chinese,17.0,0.13,sake
+4,French,0.0,0.0,sake
+5,Cuban,0.0,0.0,sake
+6,Spanish,1.0,0.01,sake
+7,Hungarian,0.0,0.0,sake
+8,Greek,0.0,0.0,sake
+9,Moroccan,0.0,0.0,sake
+10,Swedish,0.0,0.0,sake
+11,Mexican,0.0,0.0,sake
+12,Hawaiian,1.0,0.01,sake
+13,Japanese,443.0,3.9,sake
+14,Indian,0.0,0.0,sake
+15,German,1.0,0.01,sake
+16,Thai,1.0,0.01,sake
+17,American,1.0,0.01,sake
+0,Italian,3.0,0.03,chickpea
+1,Irish,1.0,0.01,chickpea
+2,English,3.0,0.03,chickpea
+3,Chinese,1.0,0.01,chickpea
+4,French,5.0,0.04,chickpea
+5,Cuban,2.0,0.02,chickpea
+6,Spanish,42.0,0.28,chickpea
+7,Hungarian,1.0,0.01,chickpea
+8,Greek,29.0,0.19,chickpea
+9,Moroccan,266.0,1.57,chickpea
+10,Swedish,2.0,0.03,chickpea
+11,Mexican,3.0,0.03,chickpea
+12,Hawaiian,1.0,0.01,chickpea
+13,Japanese,3.0,0.03,chickpea
+14,Indian,89.0,0.56,chickpea
+15,German,1.0,0.01,chickpea
+16,Thai,10.0,0.06,chickpea
+17,American,1.0,0.01,chickpea
+0,total,478.0,0.0022068838154158683,allspice
+1,total,813.0,0.003753549250906069,bacon
+2,total,968.0,0.00446917057180452,basil
+3,total,1497.0,0.006911516886354717,bay leaf
+4,total,2792.0,0.012890417599667582,beef
+5,total,741.0,0.003421131605069369,beef broth
+6,total,1802.0,0.00831967496941296,bell pepper
+7,total,3960.0,0.01828297052101849,black pepper
+8,total,965.0,0.004455319836561324,bread
+9,total,546.0,0.0025208338142616404,breadcrumb
+10,total,1330.0,0.006140492624483483,brown sugar
+11,total,3101.0,0.014317043329716752,butter
+12,total,752.0,0.0034719176342944205,cabbage
+13,total,642.0,0.0029640573420439066,canola oil
+14,total,2112.0,0.009750917611209862,carrot
+15,total,640.0,0.002954823518548443,cayenne pepper
+16,total,731.0,0.0033749624875920496,celery
+17,total,615.0,0.0028394007248551444,cheddar cheese
+18,total,3059.0,0.01412313303631201,cheese
+19,total,4768.0,0.0220134352131859,chicken
+20,total,1430.0,0.0066021837992566775,chicken broth
+21,total,915.0,0.004224474249174727,chicken stock
+22,total,463.0,0.002137630139199889,chickpea
+23,total,1081.0,0.004990881599298229,chili
+24,total,651.0,0.0030056095477734943,chili powder
+25,total,2036.0,0.009400032318382235,cilantro
+26,total,1045.0,0.004824672776379879,cinnamon
+27,total,7240.0,0.03342644105357926,clove
+28,total,793.0,0.00366121101595143,coconut milk
+29,total,1323.0,0.0061081742422493595,coriander
+30,total,769.0,0.0035504051340058637,corn
+31,total,900.0,0.0041552205729587476,cornstarch
+32,total,1948.0,0.008993744084581824,cream
+33,total,577.0,0.0026639580784413304,cucumber
+34,total,2438.0,0.011256030840970474,cumin
+35,total,793.0,0.00366121101595143,curry
+36,total,474.0,0.0021884161684249405,dijon mustard
+37,total,497.0,0.002294605138622775,dill
+38,total,1291.0,0.005960433066321937,egg
+39,total,723.0,0.003338027193610194,feta
+40,total,709.0,0.003273390429141947,fish sauce
+41,total,3175.0,0.014658694799048915,flour
+42,total,572.0,0.002640873519702671,garam masala
+43,total,8460.0,0.03905907338581223,garlic
+44,total,699.0,0.0032272213116646274,garlic powder
+45,total,3049.0,0.014076963918834692,ginger
+46,total,764.0,0.0035273205752672037,honey
+47,total,1587.0,0.007327038943650592,kosher salt
+48,total,654.0,0.0030194602830166902,lamb
+49,total,2638.0,0.012179413190516863,lemon
+50,total,1503.0,0.006939218356841109,lime
+51,total,564.0,0.0026039382257208154,masala
+52,total,1988.0,0.0091784205544911,milk
+53,total,533.0,0.002460813961541125,mint
+54,total,596.0,0.0027516794016482376,mirin
+55,total,576.0,0.0026593411666935986,mozzarella cheese
+56,total,1460.0,0.006740691151688636,mushroom
+57,total,1235.0,0.005701886008448949,mustard
+58,total,614.0,0.0028347838131074126,nutmeg
+59,total,1821.0,0.008407396292619867,olive
+60,total,5510.0,0.025439183730003,olive oil
+61,total,9702.0,0.044793277776495305,onion
+62,total,1518.0,0.007008472033057088,oregano
+63,total,2343.0,0.01081742422493594,paprika
+64,total,764.0,0.0035273205752672037,parmesan cheese
+65,total,2790.0,0.012881183776172119,parsley
+66,total,517.0,0.002386943373577414,pasta
+67,total,918.0,0.004238324984417923,pea
+68,total,10365.0,0.04785429026524158,pepper
+69,total,782.0,0.0036104249867263787,pineapple
+70,total,1389.0,0.006412890417599668,pork
+71,total,2170.0,0.010018698492578314,potato
+72,total,2469.0,0.011399155105150166,rice
+73,total,506.0,0.0023361573443523628,rosemary
+74,total,679.0,0.003134883076709989,saffron
+75,total,465.0,0.0021468639626953533,sake
+76,total,10296.0,0.04753572335464808,salt
+77,total,797.0,0.0036796786629423577,sausage
+78,total,760.0,0.003508852928276276,scallion
+79,total,876.0,0.004044414691013181,sea salt
+80,total,576.0,0.0026593411666935986,sesame
+81,total,868.0,0.004007479397031326,sesame oil
+82,total,470.0,0.002169948521434013,sesame seed
+83,total,750.0,0.0034626838107989564,shallot
+84,total,870.0,0.004016713220526789,shrimp
+85,total,1046.0,0.004829289688127612,sour cream
+86,total,2444.0,0.011283732311456867,soy sauce
+87,total,579.0,0.0026731919019367945,spinach
+88,total,770.0,0.0035550220457535955,steak
+89,total,3118.0,0.014395530829428195,sugar
+90,total,1647.0,0.007604053648514509,thyme
+91,total,3981.0,0.018379925667720863,tomato
+92,total,948.0,0.004376832336849881,tomato paste
+93,total,674.0,0.003111798517971329,tortilla
+94,total,1093.0,0.005046284540271013,turmeric
+95,total,1642.0,0.007580969089775849,vegetable oil
+96,total,3673.0,0.016957916849419424,water
+97,total,634.0,0.002927122048062051,worcestershire sauce
+98,total,875.0,0.004039797779265449,yogurt
+99,total,625.0,0.002885569842332464,zest
