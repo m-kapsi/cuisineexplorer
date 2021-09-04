@@ -24,7 +24,7 @@ kmeans = pd.read_csv('data/kmeans.csv')
 DATA_PATH = pathlib.Path(__file__).parent.resolve()
 EXTERNAL_STYLESHEETS = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 FILENAME = "data/cleaned_data.csv"
-GLOBAL_DF = pd.read_csv('../data/data cleaning/cleaned_data.csv', sep=',',
+GLOBAL_DF = pd.read_csv('data/cleaned_data.csv', sep=',',
                    converters={'ingredients':ast.literal_eval,
                                'ingredientLines': ast.literal_eval})
 
