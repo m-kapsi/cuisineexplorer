@@ -45,6 +45,27 @@ def make_bubble(dataframe):
     fig.update_traces(hovertemplate=None, hoverinfo='skip')
     return fig
 
+def make_cdf(data):
+    """ Helper function to get cumulative distribution function for cooking times """
+    cooking_time_data = []
+    cuisine_list = list(set(data.cuisine))
+
+    for cuisine in cuisine_list:
+    prep_times = data.loc[data.cuisine==cuisine, 'totalTimeInMinutes'].values
+    prep_times = prep_times[prep_times < threshold]
+    values, base = np.histogram(prep_times, bins=35)
+
+    cumulative = np.cumsum(values)
+    cumulative = cumulative/cumulative.max()
+    data_i = go.Scatter(x=base[:-1], y=cumulative ,name = cuisine)
+    cooking_time_data.append(data_i)
+
+    fig = go.Figure(data= cooking_time_data,
+                    layout=go.Layout(title=go.layout.Title(text='Cumulative Distribution Function - Total Cooking Time'),
+                    showlegend=True)
+                    )
+    return fig
+
 def plotly_wordcloud(selected_cuisine):
     """A wonderful function that returns figure data for three equally
     wonderful plots: wordcloud, frequency histogram and treemap"""
@@ -271,6 +292,16 @@ CUISINES_PLOT = [
         )
         ]
 
+COOKINGTIME_PLOT = [
+    dbc.CardHeader(html.H5("Total Cooking Time: Cumulative Distribution Function")),
+    dbc.CardBody(
+        [
+            dcc.Graph(id="cook-time", figure = make_cdf(data)),
+                ],
+        style={"marginTop": 0, "marginBottom": 0}
+        )
+        ]
+
 TOP_INGREDIENTS_COMPS = [
     dbc.CardHeader(html.H5("Compare Popular ingredients for two cuisines")),
     dbc.CardBody(
@@ -327,6 +358,7 @@ TOP_INGREDIENTS_COMPS = [
 BODY = dbc.Container(
     [
         dbc.Row([dbc.Col(dbc.Card(TOP_INGREDIENTS_COMPS)),], style={"marginTop": 30}),
+        dbc.Row([dbc.Col(dbc.Card(COOKINGTIME_PLOT)),], style={"marginTop": 30})
         dbc.Row(
             [
                 dbc.Col(LEFT_COLUMN, md=4, align="center"),
