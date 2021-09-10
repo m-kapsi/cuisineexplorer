@@ -45,27 +45,6 @@ def make_bubble(dataframe):
     fig.update_traces(hovertemplate=None, hoverinfo='skip')
     return fig
 
-def make_cdf(data):
-    """ Helper function to get cumulative distribution function for cooking times """
-    cooking_time_data = []
-    cuisine_list = list(set(data.cuisine))
-
-    for cuisine in cuisine_list:
-    prep_times = data.loc[data.cuisine==cuisine, 'totalTimeInMinutes'].values
-    prep_times = prep_times[prep_times < threshold]
-    values, base = np.histogram(prep_times, bins=35)
-
-    cumulative = np.cumsum(values)
-    cumulative = cumulative/cumulative.max()
-    data_i = go.Scatter(x=base[:-1], y=cumulative ,name = cuisine)
-    cooking_time_data.append(data_i)
-
-    fig = go.Figure(data= cooking_time_data,
-                    layout=go.Layout(title=go.layout.Title(text='Cumulative Distribution Function - Total Cooking Time'),
-                    showlegend=True)
-                    )
-    return fig
-
 def plotly_wordcloud(selected_cuisine):
     """A wonderful function that returns figure data for three equally
     wonderful plots: wordcloud, frequency histogram and treemap"""
@@ -211,9 +190,7 @@ NAVBAR = dbc.Navbar(
 
 LEFT_COLUMN = dbc.Jumbotron(
     [
-        html.H4(children="Select a cuisine", className="display-5"),
-        html.Hr(className="my-2"),
-        html.Label("Select a cuisine to explore below", style={"marginTop": 50}, className="lead"),
+        html.H4(children="Select a cuisine to explore below", className="display-5"),
         dcc.Dropdown(
             id="cuisine-drop",
             clearable=False,
@@ -292,16 +269,6 @@ CUISINES_PLOT = [
         )
         ]
 
-COOKINGTIME_PLOT = [
-    dbc.CardHeader(html.H5("Total Cooking Time: Cumulative Distribution Function")),
-    dbc.CardBody(
-        [
-            dcc.Graph(id="cook-time", figure = make_cdf(data)),
-                ],
-        style={"marginTop": 0, "marginBottom": 0}
-        )
-        ]
-
 TOP_INGREDIENTS_COMPS = [
     dbc.CardHeader(html.H5("Compare Popular ingredients for two cuisines")),
     dbc.CardBody(
@@ -355,17 +322,68 @@ TOP_INGREDIENTS_COMPS = [
     ),
 ]
 
+COOKINGTIME_COMP= [
+    dbc.CardHeader(html.H5("Compare Cooking Times for two cuisines")),
+    dbc.CardBody(
+        [
+            dcc.Loading(
+                id="loading-cooking-time-comps",
+                children=[
+                    dbc.Alert(
+                        "Something's gone wrong! Give us a moment, but try loading this page again if problem persists.",
+                        id="no-data-alert-cooking_comp",
+                        color="warning",
+                        style={"display": "none"},
+                    ),
+                    dbc.Row(
+                        [
+                            dbc.Col(html.P("Choose two cuisines to compare:"), md=12),
+                            dbc.Col(
+                                [
+                                    dcc.Dropdown(
+                                        id="ingredients-comp_3",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in GLOBAL_DF.cuisine.unique()
+                                        ],
+                                        value="Thai",
+                                    )
+                                ],
+                                md=6,
+                            ),
+                            dbc.Col(
+                                [
+                                    dcc.Dropdown(
+                                        id="ingredients-comp_4",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in GLOBAL_DF.cuisine.unique()
+                                        ],
+                                        value="American",
+                                    )
+                                ],
+                                md=6,
+                            ),
+                        ]
+                    ),
+                    dcc.Graph(id="cooking-time-comps"),
+                ],
+                type="default",
+            )
+        ],
+        style={"marginTop": 0, "marginBottom": 0},
+    ),
+]
+
+
+
+
 BODY = dbc.Container(
     [
         dbc.Row([dbc.Col(dbc.Card(TOP_INGREDIENTS_COMPS)),], style={"marginTop": 30}),
-        dbc.Row([dbc.Col(dbc.Card(COOKINGTIME_PLOT)),], style={"marginTop": 30})
-        dbc.Row(
-            [
-                dbc.Col(LEFT_COLUMN, md=4, align="center"),
-                dbc.Col(dbc.Card(CUISINES_PLOT), md=8),
-            ],
-            style={"marginTop": 30},
-        ),
+        dbc.Row([dbc.Col(dbc.Card(COOKINGTIME_COMP)),], style={"marginTop": 30}),
+        dbc.Row([dbc.Col(dbc.Card(CUISINES_PLOT)),], style={"marginTop": 30}),
+        dbc.Row([dbc.Col(LEFT_COLUMN)], style={"marginTop": 30}),
         dbc.Card(WORDCLOUD_PLOTS)
     ],
     className="mt-12",
@@ -407,6 +425,36 @@ def comp_ingredient_comparisons(comp_first, comp_second):
     fig.update_yaxes(title="", showticklabels=False)
     fig.data[0]["hovertemplate"] = fig.data[0]["hovertemplate"][:-14]
     return fig
+
+@app.callback(
+    Output("cooking-time-comps", "figure"),
+    [Input("ingredients-comp_3", "value"), Input("ingredients-comp_4", "value")],
+)
+def comp_cooking_time(comp_first, comp_second):
+    comp_list = [comp_first, comp_second]
+    data = GLOBAL_DF[GLOBAL_DF.cuisine.isin(comp_list)].copy()
+
+    cooking_time_data = []
+
+    for cuisine in comp_list:
+        prep_times = data.loc[data.cuisine==cuisine, 'totalTimeInMinutes'].values
+        prep_times = prep_times[prep_times < 140]
+        values, base = np.histogram(prep_times, bins=35)
+        cumulative = np.cumsum(values)
+        cumulative = cumulative/cumulative.max()
+        data_i = go.Scatter(x=base[:-1], y=cumulative ,name = cuisine)
+        cooking_time_data.append(data_i)
+
+    fig = go.Figure(data=cooking_time_data
+                    )
+    fig.update_layout(legend=dict(x=0.1, y=1.1),
+                      title="Comparison: " + comp_first + " | " + comp_second,
+                      template='plotly_white',
+                      legend_orientation="h")
+    fig.update_xaxes(title="cooking time in minutes")
+    fig.update_yaxes(title="percentage of recipes")
+    return fig
+
 
 
 @app.callback(
